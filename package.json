@@ -28,6 +28,8 @@
     "test": "vscode-test"
   },
   "devDependencies": {
+    "@types/assert": "^1.5.11",
+    "@types/jest": "^29.5.14",
     "@types/mocha": "^10.0.10",
     "@types/node": "20.x",
     "@types/vscode": "^1.96.0",
@@ -39,6 +41,8 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
+    "@types/react-router": "^5.1.20",
+    "@types/react-router-dom": "^5.3.3",
     "ollama": "^0.5.12"
   }
 }
